@@ -1,0 +1,19 @@
+{
+  "name": "cmscart_mongo_nodejs_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hychhayrith/CMSCart_Mongo_Nodejs_Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hychhayrith/CMSCart_Mongo_Nodejs_Express/issues"
+  },
+  "homepage": "https://github.com/Hychhayrith/CMSCart_Mongo_Nodejs_Express#readme"
+}
